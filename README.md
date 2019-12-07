@@ -1,8 +1,7 @@
-# Intro to Bioinformatics BIMM 
+# Intro to Bioinformatics BIMM 143 
 # Scott Phillips
 # Demo of Lecture/Worksheet Content
 
-# Lecture 5
 Class 5: Data Exploration and Visualization in R
 Class 6: Writing Personal R Functions
 Class 7: Bioinformatics Package from CRAN, BioConductor
