@@ -1,4 +1,4 @@
-# Intro to Bioinformatics BIMM 143
+# Intro to Bioinformatics BIMM 
 # Scott Phillips
 # Demo of Lecture/Worksheet Content
 
